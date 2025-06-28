@@ -1,4 +1,4 @@
-# DSA-Capstone-Project
+# DSA-Capstone-Project 1
 This is where i started my portfolio building while taking my DSA Analysis class with The Incubator Hub.
 
 **Project TOPIC**
