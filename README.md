@@ -14,7 +14,7 @@ This project analyzes a dataset of Amazon product listings to extract key busine
   - Number of products with significant discounts (50% or more).
 
 ## Tools
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://wwww.microsoft.com)
   - Data cleaning
   - Text to Columns
   - Pivot Tables
@@ -22,4 +22,6 @@ This project analyzes a dataset of Amazon product listings to extract key busine
 
 ## File: provided by DSA.
 
+#### How to use
+Download the Excel file and open in Microsoft Excel to explore the interactive pivot tables.
 
