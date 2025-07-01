@@ -20,5 +20,6 @@ This project analyzes a dataset of Amazon product listings to extract key busine
   - Pivot Tables
   - Calculated columns
 
-## Files
-- `Amazon case study.xlsx`: The Excel workbook with all cleaned data, Pivot Tables, and analysis.
+## File: provided by DSA.
+
+
